@@ -1,4 +1,4 @@
-package lc10;
+package com.hyfly.lc10;
 
 import java.util.Arrays;
 import java.util.HashMap;
