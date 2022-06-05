@@ -19,7 +19,7 @@ package com.hyfly.lc10;
  *
  * @author hyfly
  */
-public class Main4 {
+public class Main04 {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int length1 = nums1.length, length2 = nums2.length;
